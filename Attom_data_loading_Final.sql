@@ -1,4 +1,4 @@
- -- Step 1: Declare the table variable
+
 DECLARE @tables TABLE (
     id INT,
     TableName NVARCHAR(255));
